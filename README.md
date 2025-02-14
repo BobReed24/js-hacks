@@ -1,2 +1,2 @@
-# js-hacks
-This repo has Javascript hacks
+# web-based game hacks
+This repo has hacks
